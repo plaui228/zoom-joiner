@@ -12,4 +12,4 @@ it will be working fine.
 if something does not work or some problems arise write them into this scripts
 GitHub: https://github.com/plaui228/zoom-joiner/tree/main
 
-made with passion by Plaui
+made by Plaui
